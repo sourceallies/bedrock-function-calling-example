@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Grey Lovelace",
+    "favorite_color": "purple"
+  },
+  {
+    "id": 2,
+    "name": "Whitney Lovelace",
+    "favorite_color": "blue"
+  },
+  {
+    "id": 3,
+    "name": "Jake Hestbech",
+    "favorite_color": "orange"
+  },
+  {
+    "id": 4,
+    "name": "Matt Vincent",
+    "favorite_color": "green"
+  }
+]
